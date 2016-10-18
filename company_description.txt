@@ -1,0 +1,10 @@
+Company Name: Foot Locker
+How Many Locations: 12
+How many employees: About 50
+How do they generate revenue: Selling shoes
+Gross Annual Revenue: About $328,500
+What transactions occur in  you company's opperations: Selling retail shoes online and in stores
+How many transactions occur per day: 15
+What data archiving and throughput requirements characterize your company?: Online Storage and External Hard Drives
+Clients: Consumers who are willing to buy shoes
+Suppliers: Big Shoe Companies (Nike, Skechers, Asics, New Balance)
