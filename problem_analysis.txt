@@ -1,0 +1,15 @@
+19. before the system was in place, the supplier would communicate with the client via e-mail. they would send the client an email
+confirming their purchase. the supplier would then recieve the client's information (billing address, shipping adress, order placed, etc.)
+and will begin to print a billing summary and the shipping label on the product.they will the begin shipping out the product. 
+this would go on one client at a time. there are difficluties with this method that they used.
+-client order confirmations werent simlultaneous
+-there was no option to cancel or modify the order on the clients side 
+-there was no way to update for new orders on the suppliers side 
+-there was no way to check to see if inventory on the product was available 
+-since the orders were delivered one by one via email, there were some orders that might have been lost.
+20. the system improvment objectives could be:
+-orders and order confirmations will now be simultaneous, comfirming one minute after placing an order.
+- there wil be a "change order" and 'cancel order' (allow 5 minutes after cancellation is placed)
+- the orders that were placed will be automatically shown and updated as 1 minute after the order is placed
+- suppliers wil also have a update on the inventory that they have on every product every 10 minutes
+- since orders will be simultaneous and updated, orders will not be lost by carelessness.  

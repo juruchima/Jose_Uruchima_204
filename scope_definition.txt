@@ -1,0 +1,7 @@
+14. the type of informstion system that could be used is the transaction information system.
+15. the reason that the business needs it is because it would help make the transaction process between 
+the client and the supplier much easier and could show updated and simultaneous information 
+on what client would want which product.
+16. it would take 12-18 months to design, implement, and install it
+17. the Estimated cost would be from $250,000 - $300,000
+18. the amount of people that would work on the system is 20-25 
