@@ -1,0 +1,32 @@
+senario 1: no laptop, no PC, NO FLash drive
+*Install A Git Client (For the platform in question)
+
+git clone <URL of Project>
+modify add or remove files 
+git add <the files you worked on>
+AND/OR
+git RM <the files you want to remove>
+git commit -m "<some message>
+git push
+
+git remote add <some word> <URL of Proj>
+
+*= Not necessary for LINUX,UNIX,MAC OS
+
+Scenario 2 : Personal pc or laptop
+
+Install Git Client 
+First time working on PC ---> SCenario 1
+otherwise (Steps 2 - 5)
+
+
+Scenario 3 : no PC But on Flashdrive 
+put Flash drive on PC
+put repository folder on PC that is being used
+Follow Scenario 1
+
+Scenario 4 :  two or more private computers, multiple participants
+Instal Git Client
+Fork Copy of Repsitory to pc
+git config --global user.email "your_email@domainname.com"
+Follow steps 2 - 5
