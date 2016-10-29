@@ -1,0 +1,12 @@
+21. Clients would be able to have their orders placed quickly at home or on the go
+clients will be able to customize thier products anyway they want
+clients will be able to have recommendations on wht products they choose
+client will be able to send feedback on products that are good or bad
+22. Suppliers would have the ability to update inventory quickly
+suppliers will be able to provide better products to the consumers, due to feedback 
+suppliers will be able to organize orders better and ship them out efficiently
+suppliers will be able to adjust their manufacturing schedules eficiently
+23.the System would be able to confirm each purchase that was sold online or in person
+the System will be able to show which product is selling the highest therefore adding more revenue
+24.the System wil ba able to show the frequency of every product sold, which gives them more promotion of that product
+the system will inform the company on the newset product, giving them the urge to sell them as quick and expensive as possible. 
